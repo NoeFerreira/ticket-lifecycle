@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Intake</h3>
 <br />
 <p>
-  User Karen creates a ticket:
+  Karen (User) creates a ticket:
 </p>
 <p>
   <img src="https://github.com/user-attachments/assets/0a2c0d34-62a2-46a3-97b4-5d9a5f4345e6" height="75%" width="100%" alt="Open a Ticket"/>
